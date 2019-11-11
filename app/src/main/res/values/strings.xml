@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Assignment1</string>
+    <string name="app_name">SDA 2019 Assignment01</string>
+    <string name="mess_toast">You pressed the button</string>
+    <string name="name">Name: Bianca Catalunha</string>
+    <string name="student_id">Student ID: 18214758</string>
+    <string name="button1">PRESS ME!</string>
 </resources>
